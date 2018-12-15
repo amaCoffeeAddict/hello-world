@@ -1,5 +1,4 @@
 # hello-world
-My first ever programming experience 
 
 Hello all!!
 
